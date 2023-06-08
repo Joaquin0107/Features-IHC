@@ -1,8 +1,5 @@
 Feature: Autentificación de pacientes
 
-    Feature Description : 
-    Como médico, quiero poder estar seguro de garantizar una seguridad en la información de los usuarios, para garantizar su privacidad.
-
     Scenario Outline: El médico desea corroborar que la información que el paciente le brindo sea confidencial
 
         Given el médico es precavido con la información que maneja
