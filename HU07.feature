@@ -1,8 +1,5 @@
 Feature: Asignación de horarios
 
-    Feature Description : 
-    Como médico, quiero poder poseer un horario flexible, para tener un major equilibrio entre mi vida personal y profesional.
-    
     Scenario Outline: El médico desea observar las horas libres de su horario.
 
         Given el médico se quiere dar un tiempo para sí mismo
