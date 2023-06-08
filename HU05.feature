@@ -1,8 +1,5 @@
 Feature: Arención al cliente
 
-    Feature Description : 
-    Como usuario, quiero que resuelvan mi problema en caso surja algún imprevisto con el Sistema, para evitar interrupciones en las actividades programadas.
-
     Scenario Outline: El usuario tiene un problema al seleccionar el médico.
 
         Given el usuario ha notado que no le permite seleccionar a un doctor disponible
