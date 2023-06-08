@@ -1,8 +1,5 @@
 Feature: Eficacia de la búsqueda de doctores
 
-    Feature Description : 
-    Como paciente, quiero poder ver los doctores cercanos a mi domicilio, para solicitar una cita a mi ubicación.
-
     Scenario Outline: El paciente quiere buscar a un doctor cercano a su domicilio
 
         Given el usuario desea un médico cercano
