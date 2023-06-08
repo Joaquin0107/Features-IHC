@@ -1,8 +1,5 @@
 Feature: Eficiencia en el proceso de agendar cita
 
-    Feature Description : 
-    Como paciente, quiero poder agendar una cita en un corto tiempo, para poder recibir atención médica de manera oportuna y eficiente.
-
     Scenario Outline: El paciente desea consultar el estado de su cuerpo
 
         Given el usuario desea saber su estado de salud
