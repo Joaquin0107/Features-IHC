@@ -1,8 +1,5 @@
 Feature: Prioridad de visualización de datos
 
-    Feature Description : 
-    Como médico, quiero observar información relevante acerca de mi paciente para enfocarme en lo escencial, para enfocarme en lo esencial del caso.
-
     Scenario Outline: El médico desea ver información relevante acerca de su paciente
 
         Given el médico quiere saber información que ayude al paciente
