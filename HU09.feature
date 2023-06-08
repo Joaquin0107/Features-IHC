@@ -1,8 +1,5 @@
 Feature: Registro dentro de la aplicación
 
-    Feature Description : 
-    Como usuario, quiero registrarme en la aplicación ya sea como médico o cliente, para poder tener acceso a las funcionalidades y servicios que ofrece.
-
     Scenario Outline: El usuario quiere registrarse como médico
 
         Given el usuario es un médico que desea brindar el servicio a domicilio
